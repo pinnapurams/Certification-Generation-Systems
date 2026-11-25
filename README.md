@@ -1,1 +1,2 @@
-# Certification-Generation-Systems
+# Certificate-Generation-System
+Certificate Generation System
